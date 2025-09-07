@@ -17,12 +17,13 @@ Provide actionable insights to support AtliQ Motors' expansion strategy in India
 🔍 Data Sources
 The project utilizes two main datasets:
 
-# EV_sales.csv:
+ EV_sales.csv:
 
 date: Date of sales record.
 vehicle_category: Category of the vehicle (2-Wheeler or 4-Wheeler).
 maker: Manufacturer/Brand of the electric vehicle.
 electric_vehicles_sold: Number of electric vehicles sold.
+
 dim_date.csv:
 
 date: Relevant date for sales.
