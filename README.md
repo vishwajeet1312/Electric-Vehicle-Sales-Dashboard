@@ -44,3 +44,7 @@ Strategic recommendations for AtliQ Motors' expansion plan in India.
 Power BI: For interactive dashboards and visual insights.
 Power Query: For Data cleaning, transformation etc.
 Excel: For initial data exploration and reports.
+
+# Link
+https://app.powerbi.com/view?r=eyJrIjoiODk2MGVlZmQtODViNS00MzQ3LTliNzUtNzMzY2Y0MWYyYzlkIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&pageName=3a62ff014aa38061b962
+
